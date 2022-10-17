@@ -1747,3 +1747,4 @@ juno139xdnvgnreq95t3ey98kym482ng6lf76uvs4r7, 100, XXX
 juno1t8zghrwyxk336aqtee3p7xzscrmp884rys8eln, 51, XXX
 juno16pdzmcuy5cns3uuf45fupxjsme5su2u3sue9a7, 55, XXX
 juno1hw5ahzpld5kcdygmqreruselxlr665l9ezfdpg, 50, XXX
+juno1gadzfkdkgyhs32satqfc0cuqdksrzgwsplz6ny，53，XXX
